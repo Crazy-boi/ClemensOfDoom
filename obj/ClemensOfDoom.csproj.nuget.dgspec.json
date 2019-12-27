@@ -1,0 +1,45 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Benutzer\\Arthur\\Arthurs medien\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\ClemensOfDoom\\ClemensOfDoom.csproj": {}
+  },
+  "projects": {
+    "D:\\Benutzer\\Arthur\\Arthurs medien\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\ClemensOfDoom\\ClemensOfDoom.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Benutzer\\Arthur\\Arthurs medien\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\ClemensOfDoom\\ClemensOfDoom.csproj",
+        "projectName": "ClemensOfDoom",
+        "projectPath": "D:\\Benutzer\\Arthur\\Arthurs medien\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\ClemensOfDoom\\ClemensOfDoom.csproj",
+        "packagesPath": "D:\\Benutzer\\Wolfgang\\.nuget\\packages\\",
+        "outputPath": "D:\\Benutzer\\Arthur\\Arthurs medien\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\ClemensOfDoom\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "D:\\Benutzer\\Wolfgang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

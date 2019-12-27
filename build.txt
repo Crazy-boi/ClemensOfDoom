@@ -1,0 +1,3 @@
+displayName = Clemens Of Doom
+author = SirArthur
+version = 0.2
