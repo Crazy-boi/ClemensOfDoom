@@ -1,2 +1,10 @@
-Clemens Of Doom is a pretty cool mod, it does...this. Modify this file with a description of your mod.
-Not gonna change that, I'm too lazy.
+Clemens Of Doom is a (yet) small mod.
+It adds some enemies, a boss and items that are connected to CLEMENS.
+Who is Clemens? Well, not gonna tell, it's an insider joke...
+
+Thus, this mod is not really interesting for you if you don't know Clemens,
+but if you're looking for something that adds funny stuff, give it a try!
+
+This mod is my first project, so expect screwed-up sh<3 at all ends.
+
+Have a great day.
