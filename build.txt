@@ -1,3 +1,9 @@
 displayName = Clemens Of Doom
 author = SirArthur
 version = 0.2
+homepage = 
+hideCode = false
+hideResources = true
+includeSource = true
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*, .git\*
+includePDB = true
