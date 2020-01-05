@@ -1,6 +1,6 @@
 displayName = Clemens Of Doom
 author = SirArthur
-version = 0.3
+version = 0.4
 homepage = 
 hideCode = false
 hideResources = true

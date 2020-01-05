@@ -6,5 +6,7 @@ Thus, this mod is not really interesting for you if you don't know Clemens,
 but if you're looking for something that adds funny stuff, give it a try!
 
 This mod is my first project, so expect screwed-up sh<3 at all ends.
+The textures and sounds are not final, I will replace them when
+the drawings are finished.
 
 Have a great day.
