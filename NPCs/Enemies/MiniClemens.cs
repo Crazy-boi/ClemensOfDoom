@@ -32,7 +32,7 @@ namespace ClemensOfDoom.NPCs.Enemies
 
             npc.value = 100f;
 
-            npc.knockBackResist = 3f;
+            npc.knockBackResist = 55f;
 
             npc.aiStyle = 3;
             aiType = NPCID.Zombie;

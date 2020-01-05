@@ -32,7 +32,8 @@ namespace ClemensOfDoom.Items
 		{
 			ModRecipe recipe = new ModRecipe(mod);
 			recipe.AddIngredient(ItemID.IronBar, 20);
-			recipe.AddTile(TileID.Anvils);
+			recipe.AddIngredient(ItemID.MythrilBar, 5);
+			recipe.AddTile(TileID.MythrilAnvil);
 			recipe.SetResult(this);
 			recipe.AddRecipe();
 		}
